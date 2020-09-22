@@ -2,7 +2,12 @@
 Semoga Bermanfaat Kawan-Kawan! Aamiin, Semangat..!
 <br>
 
-## Alhamdulillah Dapat Rating Bintang 5 
+## Alhamdulillah Dapat Review Rating Bintang 5 
+<br>
+<p align="center">
+    <img src="ss0.jpg" width="500" height="250">
+</p>
+
 <br>
 <p align="center">
     <img src="ss.jpg" width="500" height="250">
