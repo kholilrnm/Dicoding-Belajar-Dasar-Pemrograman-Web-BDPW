@@ -1,3 +1,5 @@
+//  Kholilul Rachman N.M - Dicoding Indonesia
+
 function myFunction() {
     var x = document.getElementById("myheader");
     if (x.className === "header") {
